@@ -1,0 +1,1 @@
+La siguiente calculadora, trasforma el salario liquido, en bruto a partir del sistema chileno, el sistema esta basado en neetbeans java
