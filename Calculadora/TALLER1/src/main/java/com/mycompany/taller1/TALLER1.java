@@ -1,4 +1,5 @@
 
+//" @autores: Ignacio Rehbein, Claudio Diaz.//
 package com.mycompany.taller1;
 import java.util.Scanner;
 
