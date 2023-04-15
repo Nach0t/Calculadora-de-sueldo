@@ -1,7 +1,13 @@
 
-//" @autores: Ignacio Rehbein, Claudio Diaz.//
+/**
+* @autores: Ignacio Rehbein, Claudio Diaz.
+*/
+
 package com.mycompany.taller1;
+
+
 import java.util.Scanner;
+
 
 public class TALLER1 {
 
@@ -64,6 +70,7 @@ public class TALLER1 {
             descuento_salud = Salud.Isapre(uf);
             System.out.println(descuento_salud);
         }
+        
         SeguroCesantia cesantia=new SeguroCesantia();
         System.out.println(cesantia.Cesantia(salario_bruto));
         int salario_liquido = (int) (salario_bruto - descuento_afp - descuento_salud-cesantia.Cesantia(salario_bruto));
