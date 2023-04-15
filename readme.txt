@@ -13,8 +13,8 @@ Cómo utilizar la calculadora:
 2. Abre el proyecto en NetBeans IDE.
 3. En el panel de proyectos, expande la carpeta src y luego la carpeta calculadora.
 4. Haz clic derecho en el archivo Calculadora.java y selecciona la opción Run File.
-5. Se abrirá una ventana de la calculadora en la que podrás ingresar el salario bruto y otros datos relevantes para el cálculo del salario líquido.
-6. Haz clic en el botón Calcular y la calculadora mostrará el resultado del salario líquido.
+5. Se abrirá una panel donde deberas de poner tu sueldo y contestar las preguntas como te piden. 
+6. Una vez hayas respondido todas las preguntas podras ver tu sueldo liquido.
 
 Autores
 Este proyecto fue desarrollado:
