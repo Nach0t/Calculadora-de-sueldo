@@ -1,4 +1,4 @@
-Calculadora de salario líquido en Chile
+# Calculadora de salario líquido en Chile
 
 Esta es una calculadora desarrollada en Java, utilizando el entorno de desarrollo NetBeans, que nos permitira calcular el salario líquido a partir del salario bruto en Chile, según el sistema tributario vigente.
 
