@@ -5,8 +5,9 @@ Esta es una calculadora desarrollada en Java, utilizando el entorno de desarroll
 # Requisitos
 Para poder ejecutar la aplicación, es necesario tener instalado en tu computadora:
 
-1-Java SE Development Kit (JDK) 8 o superior
-2-NetBeans IDE 8.2 o superior
+1-Java SE Development Kit (JDK) 8 o superior.
+
+2-NetBeans IDE 8.2 o superior.
 
 # Cómo utilizar la calculadora:
 
@@ -21,4 +22,5 @@ Para poder ejecutar la aplicación, es necesario tener instalado en tu computado
 Este proyecto fue desarrollado:
 
 -Ignacio Rehbein.
+
 -Claudio Diaz.
