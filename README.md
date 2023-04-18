@@ -2,13 +2,13 @@
 
 Esta es una calculadora desarrollada en Java, utilizando el entorno de desarrollo NetBeans, que nos permitira calcular el salario líquido a partir del salario bruto en Chile, según el sistema tributario vigente.
 
-Requisitos
+# Requisitos
 Para poder ejecutar la aplicación, es necesario tener instalado en tu computadora:
 
 1-Java SE Development Kit (JDK) 8 o superior
 2-NetBeans IDE 8.2 o superior
 
-Cómo utilizar la calculadora:
+# Cómo utilizar la calculadora:
 
 1. Descarga el repositorio en tu computadora.
 2. Abre el proyecto atravez de NetBeans IDE.
@@ -17,7 +17,7 @@ Cómo utilizar la calculadora:
 5. Se abrirá una panel donde deberas de poner tu sueldo y contestar las preguntas como te piden. 
 6. Una vez hayas respondido todas las preguntas podras ver tu sueldo liquido.
 
-Autores
+# Autores
 Este proyecto fue desarrollado:
 
 -Ignacio Rehbein.
