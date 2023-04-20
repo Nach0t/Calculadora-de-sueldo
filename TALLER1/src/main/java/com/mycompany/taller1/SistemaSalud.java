@@ -19,6 +19,6 @@ public class SistemaSalud {
  * @return El descuento correspondiente al sistema de salud Isapre
  */
     public double Isapre(double uf){
-        return uf * 35630.06;
+        return uf * 35682,07;
     }
 }
